@@ -20,8 +20,8 @@ namespace Variables_Exercise_01
             double salary = 65000;
             decimal endSalary = 150000;
 
-            Console.WriteLine($"{myName} is enjoying class hopefuly passing with an {grade}.");
-            Console.WriteLine($" The class with take {weeks} and it is {jobInTech} that I want a coding job.");
+            Console.WriteLine($"{myName} is enjoying class hopefuly passing with an {grade} althought it is more about completion.");
+            Console.WriteLine($" The class with take {weeks} weeks and it is {jobInTech} that I want a coding job.");
             Console.WriteLine($"Hopefully with a starting salary of a minimum {salary} but with potential to earn more than {endSalary}.");
         }
     }
